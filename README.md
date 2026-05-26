@@ -23,7 +23,7 @@ Score = 0.30×DistanceScore + 0.25×UrgencyScore + 0.20×AvailabilityScore + 0.1
 
 ---
 
-## 🚀 Deploy to Vercel (Free — 5 min)
+## 🚀 Deploy to Vercel
 
 ### Step 1 — Push to GitHub
 ```bash
@@ -40,16 +40,16 @@ git push -u origin main
 1. Go to [vercel.com](https://vercel.com) → Sign in with GitHub
 2. Click **"Add New Project"**
 3. Import your `Replate` repo
-4. Framework: **Next.js** (auto-detected)
-5. Click **Deploy** — done in ~60 seconds ✅
+4. Framework: **Next.js** 
+5. Click **Deploy**
 
 Your live URL: `https://Replate.vercel.app`
 
 ---
 
-## 🗄️ Adding a Real Database (Supabase — Free)
+## 🗄️ Adding a Real Database 
 
-1. Create free project at [supabase.com](https://supabase.com)
+1. Create project at [supabase.com](https://supabase.com)
 2. Run this SQL in Supabase SQL Editor:
 
 ```sql
